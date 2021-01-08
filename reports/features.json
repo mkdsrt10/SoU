@@ -1,0 +1,405 @@
+{
+    "wall_time": 32.615536952000184,
+    "image_reports": [
+        {
+            "image": "028_Easy-Resize.com_-768x511.jpg",
+            "num_features": 2644,
+            "wall_time": 2.1568215620000046
+        },
+        {
+            "image": "031_Easy-Resize.com_-768x598.jpg",
+            "num_features": 3548,
+            "wall_time": 2.8060498560007545
+        },
+        {
+            "image": "banner_home_img2.jpg",
+            "num_features": 2006,
+            "wall_time": 2.0293305089999194
+        },
+        {
+            "image": "010_Easy-Resize.com_-768x512.jpg",
+            "num_features": 1287,
+            "wall_time": 1.2905577999999878
+        },
+        {
+            "image": "022_Easy-Resize.com_-768x432.jpg",
+            "num_features": 3275,
+            "wall_time": 2.434647393999512
+        },
+        {
+            "image": "028_Easy-Resize.com_.jpg",
+            "num_features": 4504,
+            "wall_time": 3.894160868999279
+        },
+        {
+            "image": "023_Easy-Resize.com_ (1).jpg",
+            "num_features": 4669,
+            "wall_time": 4.717780721000054
+        },
+        {
+            "image": "003_Easy-Resize.com_-768x512.jpg",
+            "num_features": 4098,
+            "wall_time": 2.993879628000286
+        },
+        {
+            "image": "031_Easy-Resize.com_.jpg",
+            "num_features": 4603,
+            "wall_time": 4.27092274000006
+        },
+        {
+            "image": "039_Easy-Resize.com_.jpg",
+            "num_features": 4428,
+            "wall_time": 3.552041007999833
+        },
+        {
+            "image": "020_Easy-Resize.com_.jpg",
+            "num_features": 4014,
+            "wall_time": 3.421602698999777
+        },
+        {
+            "image": "040_Easy-Resize.com_.jpg",
+            "num_features": 4866,
+            "wall_time": 4.0526899289998255
+        },
+        {
+            "image": "016_Easy-Resize.com_-768x750.jpg",
+            "num_features": 4717,
+            "wall_time": 3.754908687000352
+        },
+        {
+            "image": "024_Easy-Resize.com_-768x509.jpg",
+            "num_features": 4291,
+            "wall_time": 3.2502928560006694
+        },
+        {
+            "image": "021_Easy-Resize.com_.jpg",
+            "num_features": 4739,
+            "wall_time": 3.659265991000211
+        },
+        {
+            "image": "008_Easy-Resize.com_-768x512.jpg",
+            "num_features": 1824,
+            "wall_time": 1.4447416940001858
+        },
+        {
+            "image": "009_Easy-Resize.com_.jpg",
+            "num_features": 4654,
+            "wall_time": 3.9390643550004825
+        },
+        {
+            "image": "038_Easy-Resize.com_-768x576.jpg",
+            "num_features": 3699,
+            "wall_time": 2.7737047489999895
+        },
+        {
+            "image": "014_Easy-Resize.com_-768x512.jpg",
+            "num_features": 3617,
+            "wall_time": 2.6047321689993623
+        },
+        {
+            "image": "011_Easy-Resize.com_-768x512.jpg",
+            "num_features": 3104,
+            "wall_time": 2.329028410999854
+        },
+        {
+            "image": "026_Easy-Resize.com_.jpg",
+            "num_features": 4679,
+            "wall_time": 4.090947069000322
+        },
+        {
+            "image": "035_Easy-Resize.com_.jpg",
+            "num_features": 4756,
+            "wall_time": 4.096133568999903
+        },
+        {
+            "image": "033_Easy-Resize.com_-768x512.jpg",
+            "num_features": 2913,
+            "wall_time": 2.1970530190001227
+        },
+        {
+            "image": "032_Easy-Resize.com_.jpg",
+            "num_features": 4774,
+            "wall_time": 4.04354087899992
+        },
+        {
+            "image": "023_Easy-Resize.com_.jpg",
+            "num_features": 4669,
+            "wall_time": 4.693382819999897
+        },
+        {
+            "image": "001_Easy-Resize.com_-768x570.jpg",
+            "num_features": 4711,
+            "wall_time": 3.5581747710002674
+        },
+        {
+            "image": "012_Easy-Resize.com_.jpg",
+            "num_features": 4051,
+            "wall_time": 3.525630385999648
+        },
+        {
+            "image": "023_Easy-Resize.com_-768x512.jpg",
+            "num_features": 4603,
+            "wall_time": 3.3509962569996787
+        },
+        {
+            "image": "banner_home_img.jpg",
+            "num_features": 4274,
+            "wall_time": 3.4697589139996126
+        },
+        {
+            "image": "035_Easy-Resize.com_-682x1024.jpg",
+            "num_features": 4785,
+            "wall_time": 3.9694734330005303
+        },
+        {
+            "image": "038_Easy-Resize.com_.jpg",
+            "num_features": 4590,
+            "wall_time": 4.461320741999771
+        },
+        {
+            "image": "017_Easy-Resize.com_.jpg",
+            "num_features": 4608,
+            "wall_time": 3.948436104999928
+        },
+        {
+            "image": "017_Easy-Resize.com_-768x512.jpg",
+            "num_features": 2839,
+            "wall_time": 2.1210501759996987
+        },
+        {
+            "image": "022_Easy-Resize.com_.jpg",
+            "num_features": 4595,
+            "wall_time": 3.713050960000146
+        },
+        {
+            "image": "020_Easy-Resize.com_-768x431.jpg",
+            "num_features": 2318,
+            "wall_time": 1.8108537260004596
+        },
+        {
+            "image": "036_Easy-Resize.com_-683x1024.jpg",
+            "num_features": 4754,
+            "wall_time": 3.881515400000353
+        },
+        {
+            "image": "008_Easy-Resize.com_.jpg",
+            "num_features": 3229,
+            "wall_time": 2.899350290000257
+        },
+        {
+            "image": "029_Easy-Resize.com_-768x512.jpg",
+            "num_features": 4298,
+            "wall_time": 3.132922081000288
+        },
+        {
+            "image": "banner_home_img3.jpg",
+            "num_features": 4543,
+            "wall_time": 3.7701846840000144
+        },
+        {
+            "image": "033_Easy-Resize.com_.jpg",
+            "num_features": 4601,
+            "wall_time": 3.99754236499939
+        },
+        {
+            "image": "8b5a22fcc977d169fdfafab7be7ab815ff417c2bed5d257bfa8c0100e3667ed6.png",
+            "num_features": 1694,
+            "wall_time": 1.2269370390004042
+        },
+        {
+            "image": "011_Easy-Resize.com_.jpg",
+            "num_features": 4528,
+            "wall_time": 3.9677797869999267
+        },
+        {
+            "image": "034_Easy-Resize.com_.jpg",
+            "num_features": 3939,
+            "wall_time": 3.4174437719993875
+        },
+        {
+            "image": "027_Easy-Resize.com_.jpg",
+            "num_features": 4714,
+            "wall_time": 4.00893907200043
+        },
+        {
+            "image": "021_Easy-Resize.com_-768x432.jpg",
+            "num_features": 2740,
+            "wall_time": 2.0123809550004808
+        },
+        {
+            "image": "009_Easy-Resize.com_-768x446.jpg",
+            "num_features": 3614,
+            "wall_time": 2.7037166629997955
+        },
+        {
+            "image": "037_Easy-Resize.com_-682x1024.jpg",
+            "num_features": 2873,
+            "wall_time": 2.5873263469993617
+        },
+        {
+            "image": "030_Easy-Resize.com_-768x512.jpg",
+            "num_features": 2304,
+            "wall_time": 1.7710817759998463
+        },
+        {
+            "image": "013_Easy-Resize.com_.jpg",
+            "num_features": 3560,
+            "wall_time": 3.101899776999744
+        },
+        {
+            "image": "010_Easy-Resize.com_.jpg",
+            "num_features": 2035,
+            "wall_time": 2.189535581999735
+        },
+        {
+            "image": "019_Easy-Resize.com_.jpg",
+            "num_features": 1872,
+            "wall_time": 2.0261733570005163
+        },
+        {
+            "image": "015_Easy-Resize.com_-768x512.jpg",
+            "num_features": 3986,
+            "wall_time": 2.854076675000215
+        },
+        {
+            "image": "002_Easy-Resize.com_-768x512.jpg",
+            "num_features": 2853,
+            "wall_time": 2.1210783209999136
+        },
+        {
+            "image": "014_Easy-Resize.com_.jpg",
+            "num_features": 5035,
+            "wall_time": 4.200740111999949
+        },
+        {
+            "image": "002_Easy-Resize.com_.jpg",
+            "num_features": 4521,
+            "wall_time": 3.8923897539998507
+        },
+        {
+            "image": "027_Easy-Resize.com_-768x512.jpg",
+            "num_features": 2981,
+            "wall_time": 2.1910434510000414
+        },
+        {
+            "image": "004_Easy-Resize.com_.jpg",
+            "num_features": 5038,
+            "wall_time": 4.76173935099996
+        },
+        {
+            "image": "019_Easy-Resize.com_-682x1024.jpg",
+            "num_features": 1897,
+            "wall_time": 1.9258734340000956
+        },
+        {
+            "image": "029_Easy-Resize.com_.jpg",
+            "num_features": 4618,
+            "wall_time": 4.668625276000057
+        },
+        {
+            "image": "003_Easy-Resize.com_.jpg",
+            "num_features": 4730,
+            "wall_time": 4.648578807999911
+        },
+        {
+            "image": "005_Easy-Resize.com_.jpg",
+            "num_features": 4459,
+            "wall_time": 4.057395804000407
+        },
+        {
+            "image": "004_Easy-Resize.com_-768x512.jpg",
+            "num_features": 4186,
+            "wall_time": 2.9003032749997146
+        },
+        {
+            "image": "030_Easy-Resize.com_.jpg",
+            "num_features": 4093,
+            "wall_time": 3.5712827649995234
+        },
+        {
+            "image": "039_Easy-Resize.com_-768x576.jpg",
+            "num_features": 2117,
+            "wall_time": 1.6804863910001586
+        },
+        {
+            "image": "016_Easy-Resize.com_.jpg",
+            "num_features": 4772,
+            "wall_time": 5.144380196000384
+        },
+        {
+            "image": "061b91d89ec2ed7ff832dfeed0743cd3ec8b37fe667f8b6b2c143b894280d996.png",
+            "num_features": 1725,
+            "wall_time": 1.3113501289999476
+        },
+        {
+            "image": "025_Easy-Resize.com_-768x512.jpg",
+            "num_features": 3445,
+            "wall_time": 2.4901861140006076
+        },
+        {
+            "image": "013_Easy-Resize.com_-768x512.jpg",
+            "num_features": 2135,
+            "wall_time": 1.6071153469993078
+        },
+        {
+            "image": "036_Easy-Resize.com_.jpg",
+            "num_features": 4770,
+            "wall_time": 3.9519263849997515
+        },
+        {
+            "image": "001_Easy-Resize.com_.jpg",
+            "num_features": 4751,
+            "wall_time": 4.820748516000094
+        },
+        {
+            "image": "032_Easy-Resize.com_-683x1024.jpg",
+            "num_features": 4792,
+            "wall_time": 3.9435308419997455
+        },
+        {
+            "image": "012_Easy-Resize.com_-768x512.jpg",
+            "num_features": 2371,
+            "wall_time": 1.8158881549998114
+        },
+        {
+            "image": "040_Easy-Resize.com_-768x1024.jpg",
+            "num_features": 4852,
+            "wall_time": 3.947638753999854
+        },
+        {
+            "image": "018_Easy-Resize.com_.jpg",
+            "num_features": 4753,
+            "wall_time": 4.165172843999244
+        },
+        {
+            "image": "025_Easy-Resize.com_.jpg",
+            "num_features": 4782,
+            "wall_time": 3.9883552470000723
+        },
+        {
+            "image": "015_Easy-Resize.com_.jpg",
+            "num_features": 4674,
+            "wall_time": 3.634519936000288
+        },
+        {
+            "image": "024_Easy-Resize.com_.jpg",
+            "num_features": 4590,
+            "wall_time": 3.354879667000205
+        },
+        {
+            "image": "034_Easy-Resize.com_-682x1024.jpg",
+            "num_features": 3918,
+            "wall_time": 2.345426863999819
+        },
+        {
+            "image": "023_Easy-Resize.com_-768x512 (1).jpg",
+            "num_features": 4603,
+            "wall_time": 2.296716214999833
+        },
+        {
+            "image": "037_Easy-Resize.com_.jpg",
+            "num_features": 2775,
+            "wall_time": 1.8077424459997928
+        }
+    ]
+}
